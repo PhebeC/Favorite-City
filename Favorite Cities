@@ -1,0 +1,7 @@
+#Favorite City
+def favorite_city(name):
+    print(name + " is super fun to visit")
+
+favorite_city("Orlando")
+favorite_city("NYC")
+favorite_city('LA')
